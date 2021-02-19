@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const Jimp    = require("jimp");
 const YTDL    =	require("ytdl-core");
 const fs      = require('fs');
-const TOKEN   ="ODEyMzE2NDM2MzQ5MzIxMjI2.YC--og.L-WkYiCe5EPK5538foYuUulYbuI";
+const TOKEN   ="secret";
 const PREFIX  ="=>";
 const bot     = new Discord.Client();
 
