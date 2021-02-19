@@ -1,6 +1,13 @@
+# Nano-Bot
+> Just Discord bot
+
+# Description
+```
+Bot i made it in my free time back in 2018 and made a few commands and gonne make it much better when i have time later
+```
+## Basic Commands
 
 ```
-Basic Commands
 play <url of any song>
 to play songs form youtube and add new spngs to the queue
 skip
